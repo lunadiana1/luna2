@@ -1,0 +1,13 @@
+body
+{
+    color: blue;
+    text-shadow: crimson;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#cabecera
+{
+    background: crimson;
+    box-shadow: darkgreen;
+}
